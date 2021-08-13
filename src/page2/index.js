@@ -11,15 +11,18 @@ let axis = [
   [0, 1],
 ];
 let data = [
-  ["多雷诺", require("./imgs/1.png"), "喝杯忘崽牛奶压压惊"],
-  ["夏飞", require("./imgs/2.png"), "我猜我的上家也许不是土块。"],
-  ["流银", require("./imgs/3.png"), "靓仔，不努力拼一下和咸鱼有咩区别？"],
-  ["艾尔", require("./imgs/4.png"), "当当当！人生重来枪！"],
-  ["花花", require("./imgs/5.png"), "好兄弟发财带上我，嘻嘻"],
+  ["蟹老板", require("./imgs/5.png"), "蟹蟹你，大善人 【惨】"],
+  ["流银", require("./imgs/2.png"), "靓仔，不努力拼一下和咸鱼有咩区别？"],
+  ["艾尔", require("./imgs/6.png"), "当当当！人生重来枪！"],
+  ["花花", require("./imgs/3.png"), "好兄弟发财带上我，嘻嘻"],
+  ["阿綪", require("./imgs/4.png"), "喂！三点几了，做卵工啊做，饮茶先啦！"],
+  ["呆呆", require("./imgs/1.png"), "你拒绝的是一个天神的爱, 谢谢你洛佩sama"],
+  ["多雷诺", require("./imgs/8.png"), "喝杯忘崽牛奶压压惊"],
+  ["夏飞", require("./imgs/1223F681BA759880795F393D4E6405AD.jpg"), "我猜我的上家也许不是土块。"],
   // ["小熊猫",require('./imgs/A479E6A7D0E0D3CC4C740528FEFB6549.jpg')],
-  ["阿綪", require("./imgs/6.png"), "喂！三点几了，做卵工啊做，饮茶先啦！"],
-  ["呆呆", require("./imgs/7.png"), "你拒绝的是一个天神的爱, 谢谢你洛佩sama"],
-  ["蟹老板", require("./imgs/8.png"), "蟹蟹你，大善人 【惨】"],
+
+
+
 ];
 axis.forEach((item, index) => {
   prizes.push({
@@ -31,8 +34,8 @@ axis.forEach((item, index) => {
       {
         width: "100%",
         height: "100%",
-        activeSrc: require("./imgs/8863B3DA3991312D435A7A9435F6A070.jpg"),
-        src: data[index][1],
+        src: require("./imgs/8863B3DA3991312D435A7A9435F6A070.jpg"),
+        activeSrc: data[index][1],
       },
     ],
   });
