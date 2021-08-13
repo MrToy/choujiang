@@ -16,9 +16,9 @@ body {
 }
 
 .banner {
-  margin-left: 150px;
-  width: 400px;
-  height: 600px;
+  margin-left: 10vw;
+  width: 60vh;
+  height: 90vh;
   background-image: url(./imgs/053.png);
   background-size: 100% 100%;
 }

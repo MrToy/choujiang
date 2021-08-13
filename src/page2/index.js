@@ -43,12 +43,13 @@ axis.forEach((item, index) => {
 
 var myModal = new bootstrap.Modal(document.getElementById("myModal"));
 
+
 // 九宫格抽奖
 let luckyGrid = new LuckyCanvas.LuckyGrid(
   {
     el: "#my-lucky",
-    width: "350px",
-    height: "370px",
+    width: 0.44*window.screen.height,
+    height: 0.45*window.screen.height,
   },
   {
     blocks: [
