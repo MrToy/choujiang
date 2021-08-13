@@ -1,0 +1,39 @@
+html,
+body,
+#my-lucky {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #fcf7e3;
+  background-image: url(./imgs/0715.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.banner {
+  margin-left: 150px;
+  width: 400px;
+  height: 600px;
+  background-image: url(./imgs/053.png);
+  background-size: 100% 100%;
+}
+#myModal .modal-dialog {
+    padding-top: 200px
+}
+#myModal .modal-content{
+    width: 400px;
+}
+#myModal .modal-body {
+    padding-top:50px;
+    font-size: 20px;
+  text-align: center;
+}
+
+#myModal .modal-footer {
+  justify-content: center;
+}
