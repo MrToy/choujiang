@@ -11,14 +11,14 @@ let axis = [
   [0, 1],
 ];
 let data = [
-  ["蟹老板", require("./imgs/5.png"), "蟹蟹你，大善人 【惨】"],
-  ["流银", require("./imgs/2.png"), "靓仔，不努力拼一下和咸鱼有咩区别？"],
-  ["艾尔", require("./imgs/6.png"), "当当当！人生重来枪！"],
-  ["花花", require("./imgs/3.png"), "好兄弟发财带上我，嘻嘻"],
-  ["阿綪", require("./imgs/4.png"), "喂！三点几了，做卵工啊做，饮茶先啦！"],
-  ["呆呆", require("./imgs/1.png"), "你拒绝的是一个天神的爱, 谢谢你洛佩sama"],
-  ["多雷诺", require("./imgs/8.png"), "喝杯忘崽牛奶压压惊"],
-  ["夏飞", require("./imgs/1223F681BA759880795F393D4E6405AD.jpg"), "我猜我的上家也许不是土块。"],
+  ["蟹老板", require("./imgs/5.png"), "催稿者 一 夕匕"],
+  ["流银", require("./imgs/2.png"), "我的超人"],
+  ["艾尔", require("./imgs/6.png"), "抱枕清仓计划进度+1"],
+  ["花花", require("./imgs/3.png"), "嘻嘻，游戏开始"],
+  ["阿綪", require("./imgs/4.png"), "一阵刺耳的鸡叫声"],
+  ["呆呆", require("./imgs/1.png"), "出门记得带伞"],
+  ["多雷诺", require("./imgs/8.png"), "你爱我，我爱你"],
+  ["夏飞", require("./imgs/1223F681BA759880795F393D4E6405AD.jpg"), "粉红色的回忆~"],
   // ["小熊猫",require('./imgs/A479E6A7D0E0D3CC4C740528FEFB6549.jpg')],
 
 
